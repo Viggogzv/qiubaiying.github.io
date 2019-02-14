@@ -1,10 +1,10 @@
 # Site settings
 title: 郜湛巍 Blog
-SEOTitle: 我的博客 | BY Blog
+SEOTitle: 我的博客 | ZW Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 1003499591@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "ZW, ZW Blog, 郜湛巍的博客, gaozhanwei, 郜湛巍, 嵌入式, 机器人, 单片机"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -18,9 +18,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     我想要两颗西柚
-github_username:    qiubaiying
+# weibo_username:     13043361686
+zhihu_username:     lajenuses
+github_username:    viggogao
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
